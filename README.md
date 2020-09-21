@@ -2,7 +2,11 @@
 
 # Installation 🔽
 ```bash
-$ git clone 
+$ git clone git@github.com:Lynicis/Lynicis.git
+```
+  **or**
+```bash
+# gh repo clone Lynicis/Lynicis
 ```
 
 # Description 📖
