@@ -6,7 +6,7 @@ $ git clone git@github.com:Lynicis/Lynicis.git
 ```
   **or**
 ```bash
-# gh repo clone Lynicis/Lynicis
+$ gh repo clone Lynicis/Lynicis
 ```
 
 # Description 📖
