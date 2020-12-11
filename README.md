@@ -1,12 +1,12 @@
 ### Welcome my profile 👋
 
-    __*I'm Jr. Back-end developer.*__
+   __*I'm Jr. Back-end developer.*__
 
-    __*I'm writing JavaScript.*__
+   __*I'm writing JavaScript.*__
 
-    __*I'm interested Front-end but most like writing Back-end technology.*__
+   __*I'm interested Front-end but most like writing Back-end technology.*__
 
-    __*I'm interested GoLang these days.*__
+   __*I'm interested GoLang these days.*__
 
 
 ### Tools 🧰
