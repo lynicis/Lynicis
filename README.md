@@ -6,7 +6,7 @@
 
    __*I'm interested Front-end but most like writing Back-end technology.*__
 
-   __*I'm interested GoLang these days.*__
+   __*I'm interested VueJS these days.*__
 
 
 ### Tools 🧰
