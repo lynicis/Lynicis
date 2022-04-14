@@ -1,7 +1,13 @@
-<h1 align="center">Hi, I'm Ismail 👋</h1>
+<h1 align="center">Hi, I'm Ismail 👋 </h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">🎉 Welcome to my profile 🎉</p>
+
+<p align="center">
+  <img src="./dancing-gopher.gif" width="200" height="200" />
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://gitlab.com/lynicis" target="_blank"><img align="center" class="filter-black" src="https://icons.veryicon.com/png/o/brands/logo-1/gitlab-fill-2.png" alt="lynicis gitlab account" height="40" width="40" /></a>
 <a href="https://twitter.com/lynicis" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lynicis twitter account" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lynicis" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lynicis linkedin account" height="30" width="40" /></a>
