@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Ismail 👋 </h1>
-
-<p align="center">🎉 Welcome to my profile 🎉</p>
+<h1 align="center">🎉 Welcome to my profile 🎉</h1>
 
 <p align="center">
   <img src="./dancing-gopher.gif" width="200" height="200" />
