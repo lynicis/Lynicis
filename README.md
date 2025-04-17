@@ -1,4 +1,4 @@
-<h1 align="center">🎉 &nbsp;&nbsp; Welcome To My Profile &nbsp;&nbsp; 🎉</h1>
+<h1 align="center">🎉 &nbsp;&nbsp; Welcome to My Profile &nbsp;&nbsp; 🎉</h1>
 
 </br></br>
 
