@@ -1,4 +1,5 @@
-I'm Emre Sırmalı, a full-stack engineer focused on creating interactive user interfaces, performance-critical systems, and developer tooling.
+I'm Emre Sırmalı</br> 
+Full-stack engineer focused on creating interactive user interfaces, performance-critical systems and developer tooling.</br>
 Currently crafting modern web applications and open-source CLI utilities.
 
 <br />
